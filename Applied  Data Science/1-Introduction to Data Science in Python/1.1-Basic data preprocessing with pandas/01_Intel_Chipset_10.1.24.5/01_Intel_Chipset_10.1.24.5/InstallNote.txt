@@ -1,0 +1,3 @@
+Install note：
+
+Right click the Install.bat file then select run as administrator then select yes in the pop-up window。
